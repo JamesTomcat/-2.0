@@ -1,4 +1,4 @@
-# shudu
+# sudoku
 到文件夹下运行命令
 ```
 >Suduku-G.exe   -c 3
